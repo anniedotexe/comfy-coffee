@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    color: #070707;
+}
+
+header {
+    position: relative;
+    height: 100px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
+    z-index: 10;
+}
+
+.header-container {
+    max-width: 1440px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 100px;
+    width: auto;
+    margin: 0 12px 0 25px;
+    cursor: pointer;
+}
+
+.logo img {
+    height: 100%;
+}
+
+.left-nav {
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+.left-nav nav ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.left-nav nav ul li {
+    text-transform: uppercase;
+    padding: 0 12px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    transition: all .2s ease;
+    cursor: pointer;
+}
+
+.left-nav nav ul li:hover {
+    color: #9D6A89;
+}
+
+.right-nav {
+    display: flex;
+    align-items: center;
+}
+
+.find-store {
+    display: flex;
+    align-items: center;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.find-store i {
+    font-size: 24px;
+    padding-right: 10px;
+}
+
+.find-store:hover {
+    color: #9D6A89;
+    transition: all .2s ease;
+}
+
+.sign-in, .join-now {
+    padding: 7px 16px;
+    color: #9D6A89;
+    border: 1px solid #9D6A89;
+    border-radius: 50px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.join-now {
+    color: white;
+    background-color: #9D6A89;
+    margin-right: 25px;
+}
+
+.sign-in:hover, .join-now:hover {
+    color: #070707;
+    background-color: #F6EFEE;
+    transition: all .2s ease;
+}

@@ -1,16 +1,16 @@
-# [Comfy Coffee]() - a Coffee Shop Landing Page
+# [Comfy Coffee](https://comfy-coffee.anniew.xyz/) - a Coffee Shop Landing Page
 
 This is the landing page for a fictitious coffee shop called "Comfy Coffee" based on [Starbuck's](https://www.starbucks.com/) website design.
 
 It is currently not responsive. Please view it on desktop.
 
-**LIVE DEMO** - [link]()
+**LIVE DEMO** - [comfy-coffee.anniew.xyz](https://comfy-coffee.anniew.xyz/) OR [comfy-coffee.netlify.app](https://comfy-coffee.netlify.app/)
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
     <img alt="Open Source? Yes!" src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github"/>
-    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/deploy-status"/>
+    <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/e5a60525-2646-408e-95de-b591af8a1cec/deploy-status"/>
 </p>
 
 <p align="center">
@@ -98,5 +98,3 @@ If you like my content or find this code useful, give it a :star: or support me 
 ## Acknowledgments
 
 - [CleverProgrammer](https://www.cleverprogrammer.com/) for their [Starbucks Clone tutorial](https://www.youtube.com/watch?v=DX2f5wAGrkk)
-
----

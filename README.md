@@ -54,7 +54,7 @@ Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.
 - Rich Black FORGRA 39 - black text color instead of normal #000 black
 - Dim Gray - footer list items and copyright text
 
-<img alt="Color Palette Screenshot" src="./img/palette.png">
+<a href="https://coolors.co/cf9140-9d6a89-f6efee-070707-666666"><img alt="Color Palette Screenshot" src="./img/palette.png"></a>
 
 ---
 

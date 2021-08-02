@@ -24,6 +24,7 @@ It is currently not responsive. Please view it on desktop.
   - [Fonts](#fonts)
   - [Color Scheme](#color-scheme)
 - [Built With](#built-with)
+- [Contributing](#contributing)
 - [Creator / Maintainer](#creator-maintainer)
 - [Acknowledgments](#acknowledgments)
 
@@ -38,7 +39,6 @@ A cup of coffee with a heart and the coffee shop name in a font face that has ro
 Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.org/). _(not sponsored)_
 
 <img alt="Logo" src="./img/logo.png">
-
 
 ### Fonts
 
@@ -63,6 +63,22 @@ Designed and downloaded for free on [FreeLogoDesign](https://www.freelogodesign.
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 - Hosted on [Netlify](https://www.netlify.com/)
+
+---
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
+
+### How To Contribute
+
+1. Fork the repository to your own Github account.
+2. Clone the project to your machine.
+3. Create a branch locally with a succinct but descriptive name.
+4. Commit changes to the branch.
+5. Following any formatting and testing guidelines specific to this repo.
+6. Push changes to your fork.
+7. Open a Pull Request in my repository.
 
 ---
 

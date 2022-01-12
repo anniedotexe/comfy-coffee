@@ -25,7 +25,7 @@ It is currently not responsive. Please view it on desktop.
   - [Color Scheme](#color-scheme)
 - [Built With](#built-with)
 - [Contributing](#contributing)
-- [Creator / Maintainer](#creator-maintainer)
+- [Creator / Maintainer](#creator--maintainer)
 - [Acknowledgments](#acknowledgments)
 
 ---

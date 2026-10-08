@@ -4,7 +4,7 @@ This is the landing page for a fictitious coffee shop called "Comfy Coffee" base
 
 It is currently not responsive. Please view it on desktop.
 
-**LIVE DEMO** - [comfy-coffee.anniew.xyz](https://comfy-coffee.anniew.xyz/) OR [comfy-coffee.netlify.app](https://comfy-coffee.netlify.app/)
+**LIVE DEMO** - https://comfy-coffee.netlify.app/
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
